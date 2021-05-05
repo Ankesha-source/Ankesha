@@ -1,0 +1,7 @@
+.nav-panel-explore .context {
+    flex-shrink: 0;
+    padding: 0 0.25rem 0 0.5rem;
+    display: flex;
+    line-height: 0;
+    height: 0;
+  }

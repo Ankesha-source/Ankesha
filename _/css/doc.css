@@ -1,0 +1,15 @@
+.doc {
+    max-width: unset;
+  }
+  
+@media screen and (min-width: 1024px) {
+    .doc {
+        max-width: unset;
+    }
+}
+
+.doc h4,
+.doc h5,
+.doc h6 {
+  font-weight: bold;
+}
